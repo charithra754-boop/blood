@@ -29,3 +29,15 @@ Feel free to submit issues or pull requests. Please follow the contribution guid
 
 ### License
 Specify the license for your project here.
+### Technologies Used
+- List the main technologies, frameworks, or languages used in this project.
+
+### Contact
+For questions or support, contact the team at: coder404@example.com
+
+### FAQ
+**Q: How do I contribute?**
+A: Fork the repository, make your changes, and submit a pull request.
+
+**Q: Who maintains this project?**
+A: The coder404 team.
