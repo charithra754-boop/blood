@@ -22,9 +22,16 @@ Describe your project here. Include its purpose, main features, and any relevant
    ```
 
 ### Team Members
+Initialized with NestJS (TypeScript)
+Planned integration: MongoDB with Mongoose
+Location: `/backend`
+To start backend locally:
+   ```bash
+   cd backend
+   npm run start
+   ```
 - Add team member names and roles here.
 
-### Contributing
 Feel free to submit issues or pull requests. Please follow the contribution guidelines.
 
 ### License
@@ -32,7 +39,6 @@ Specify the license for your project here.
 ### Technologies Used
 - List the main technologies, frameworks, or languages used in this project.
 
-### Contact
 For questions or support, contact the team at: coder404@example.com
 
 ### FAQ
