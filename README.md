@@ -30,8 +30,34 @@ To start backend locally:
    cd backend
    npm run start
    ```
-- Add team member names and roles here.
+#### MongoDB Setup
+ - Uses Mongoose for ODM
+ - Default connection: `mongodb://localhost:27017/blood`
+ - Make sure MongoDB is running locally before starting the backend
 
+#### Schemas Defined
+
+### Frontend Setup
+- Initialized with Next.js (TypeScript)
+- Tailwind CSS for rapid, modern styling
+- Three.js, React Three Fiber, Drei for 3D elements
+- styled-components for custom, artistic UI
+- react-icons for professional iconography
+- Location: `/frontend`
+- To start frontend locally:
+   ```bash
+   cd frontend
+   npm run dev
+   ```
+The UI will feature a neon-punk health theme, blood-inspired colors, 3D elements, and interactive, visually striking components.
+
+#### Login Page
+- Neon-punk health theme
+- Blood-inspired colors
+- 3D elements using Three.js
+- Interactive buttons and boxes
+- Located at `/frontend/src/pages/login.tsx`
+- Add team member names and roles here.
 Feel free to submit issues or pull requests. Please follow the contribution guidelines.
 
 ### License
