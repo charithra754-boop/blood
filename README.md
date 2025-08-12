@@ -1,3 +1,21 @@
+#### Camps Module
+- Backend: `/camps` endpoints for camp creation, registration, and listing
+- Frontend: `/frontend/src/pages/camps.tsx` for viewing camps
+
+#### Rewards Module
+- Backend: `/rewards/donor/:id` endpoint for donor rewards
+- Frontend: `/frontend/src/pages/rewards.tsx` for viewing rewards
+- Donor Dashboard: Neon-punk health theme, interactive UI, 3D elements, role-based stats
+- Hospital Dashboard: Neon-punk health theme, interactive UI, 3D elements, role-based stats
+- Located at `/frontend/src/pages/donor-dashboard.tsx` and `/frontend/src/pages/hospital-dashboard.tsx`
+  
+#### Backend API Endpoints
+- `/donors/:id` - Get donor profile and stats
+- `/hospitals/:id` - Get hospital profile and inventory
+#### Dashboards
+- Donor Dashboard: Neon-punk health theme, interactive UI, 3D elements, role-based stats
+- Hospital Dashboard: Neon-punk health theme, interactive UI, 3D elements, role-based stats
+- Located at `/frontend/src/pages/donor-dashboard.tsx` and `/frontend/src/pages/hospital-dashboard.tsx`
 # Blood
 
 ## Team Name: coder404
